@@ -20,10 +20,10 @@ limitations under the License.
 ![license](https://img.shields.io/github/license/apache/incubator-crail.svg)
 [![Documentation Status](https://readthedocs.org/projects/incubator-crail/badge/?version=latest)](https://incubator-crail.readthedocs.io/en/latest/?badge=latest)
 
-# Apache Crail (incubating)
+# Crail
 
-Apache Crail is a fast multi-tiered distributed storage system designed from ground up for high-performance network and storage hardware.
-It marks the backbone of the Crail I/O architecture, which is described in more detail on [crail.incubator.apache.org](http://crail.incubator.apache.org). 
+Crail is a fast multi-tiered distributed storage system designed from ground up for high-performance network and storage hardware.
+It marks the backbone of the Crail I/O architecture, which is described in more detail on [craillabs.github.io](http://craillabs.github.io). 
 The unique features of Crail include:
 
 * Zero-copy network access from userspace
@@ -45,14 +45,5 @@ For information about how to deploy, run, test and program against Crail:
 
 ## Community
 
-Please join the Crail developer mailing list for discussions and notifications. The list is at:
+Feel free to create pull requests or issues.
 
-dev@crail.incubator.apache.org.
-
-## Disclaimer
-
-Apache Crail is an effort undergoing incubation at The Apache Software Foundation (ASF), sponsored by the Apache Incubator PMC.
-Incubation is required of all newly accepted projects until a further review indicates that the infrastructure, communications,
-and decision making process have stabilized in a manner consistent with other successful ASF projects.
-While incubation status is not necessarily a reflection of the completeness or stability of the code,
-it does indicate that the project has yet to be fully endorsed by the ASF.
