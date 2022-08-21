@@ -18,7 +18,7 @@ limitations under the License.
 -->
 
 ![license](https://img.shields.io/github/license/apache/incubator-crail.svg)
-[![Documentation Status](https://readthedocs.org/projects/incubator-crail/badge/?version=latest)](https://incubator-crail.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/crail/badge/?version=latest)](https://crail.readthedocs.io/en/latest/?badge=latest)
 
 # Crail
 
@@ -39,7 +39,7 @@ Crail is implemented in Java offering a Java API which integrates directly with 
 ## Documentation
 
 For information about how to deploy, run, test and program against Crail:
-* Refer to https://incubator-crail.readthedocs.org
+* Refer to https://crail.readthedocs.org
 * Or build from source by running `make html` in `/doc` and opening `/doc/build/html/index.html`
 
 
